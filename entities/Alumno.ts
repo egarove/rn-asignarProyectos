@@ -1,4 +1,5 @@
 export type Alumno = {
-    id: String,
+    id: string,
     nombre: String
+    usado: boolean
 }

@@ -1,4 +1,5 @@
+
 export type Proyecto = {
-    id: String,
-    nombre: String
+    id: string,
+    nombre: String,
 }
